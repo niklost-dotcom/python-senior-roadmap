@@ -1,1 +1,15 @@
-
+# https://github.com/github/gitignore/blob/main/Python.gitignore
+# + добавь:
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+venv/
+.env.*
+*.log
